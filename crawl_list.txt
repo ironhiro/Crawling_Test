@@ -1,0 +1,6 @@
+쿠팡 https://www.coupang.com/np/search?q=top100&brand=&offerCondition=&filter=&availableDeliveryFilter=&filterType=&isPriceRange=false&priceRange=&minPrice=&maxPrice=&page=1&trcid=&traid=&filterSetByUser=true&channel=user&backgroundColor=&component=&rating=0&sorter=saleCountDesc&listSize=100
+쿠팡 https://www.coupang.com/np/search?q=top100&brand=&offerCondition=&filter=&availableDeliveryFilter=&filterType=&isPriceRange=false&priceRange=&minPrice=&maxPrice=&page=1&trcid=&traid=&filterSetByUser=true&channel=user&backgroundColor=&component=&rating=0&sorter=latestAsc&listSize=100
+네이버 https://m.shopping.naver.com/best/category?period=DAILY&type=ORDER
+네이버 https://m.shopping.naver.com/best/category?period=DAILY&type=UV
+지마켓 http://corners.gmarket.co.kr/Bestsellers
+11번가 http://www.11st.co.kr/browsing/BestSeller.tmall?method=getBestSellerMain
