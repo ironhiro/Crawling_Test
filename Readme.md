@@ -6,4 +6,8 @@
 pip install -r requirements.txt
 ```
 
+```python
+python crawl.py
+```
+
 - ~~코드퀄리티는 보장하지 않습니다.~~
